@@ -1,6 +1,9 @@
 # Blueprint Extended Types
 
-BlueprintExtendedTypes adds Blueprint-safe wrappers for native integer types Unreal does not expose as first-class Blueprint pins.
+Adds Blueprint-safe wrappers for native integer types Unreal does not expose as first-class Blueprint pins.
+
+<img width="1275" height="785" alt="Some functions" src="https://github.com/user-attachments/assets/329365f6-2140-4fe5-acd2-c9943d0e3a5e" />
+
 
 ## Types
 
@@ -11,6 +14,9 @@ BlueprintExtendedTypes adds Blueprint-safe wrappers for native integer types Unr
 | UInt16 | `uint16` | 0 to 65,535 |
 | UInt32 | `uint32` | 0 to 4,294,967,295 |
 | UInt64 | `uint64` | 0 to 18,446,744,073,709,551,615 |
+
+<img width="162" height="126" alt="types" src="https://github.com/user-attachments/assets/d2dc344d-4c9c-4ed2-a708-d5c859edcf1d" />
+
 
 ## Install
 
